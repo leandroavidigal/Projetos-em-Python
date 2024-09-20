@@ -10,12 +10,12 @@ Como **Engenheiro de Dados Sênior**, utilizo Python para desenvolver soluções
 
 Este repositório está organizado em subdiretórios, cada um contendo um projeto individual. Abaixo estão listados os principais projetos disponíveis, com uma breve descrição de cada um:
 
-### 1. [Análise de Clientes Utilizando Python](./analise-de-clientes)
+### 1. [Análise de Clientes Utilizando Python]
   - **Objetivo**: Analisar dados de clientes para identificar padrões de adimplência e inadimplência.
   - **Tecnologias**: Python, Pandas, Matplotlib, Seaborn, SciPy.
   - **Principais Insights**: Relação entre escolaridade, renda e comportamento de pagamento. A maioria das transações é de valores menores, mas existem picos em faixas de valor mais altas. Clientes com maior volume de transações geralmente não são inadimplentes.
 
-### 2. [Diferença entre Correlação e Causalidade na Indústria](./correlacao-vs-causalidade)
+### 2. [Diferença entre Correlação e Causalidade na Indústria]
   - **Objetivo**: Demonstrar a importância de distinguir correlação de causalidade em contextos industriais.
   - **Tecnologias**: Python, Pandas, Statsmodels, Matplotlib, Seaborn.
   - **Principais Insights**: Clientes com alta temperatura nas máquinas de produção apresentaram falhas recorrentes, mas a causa real era a falta de lubrificação nos componentes. O projeto utiliza inferência causal para melhorar a eficiência operacional, destacando como a lubrificação adequada reduz falhas e aumenta a produção.
